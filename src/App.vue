@@ -11,7 +11,9 @@ return
 </script>
 
 <template>
- <AppTitle />
+<header>
+  <AppTitle />
+</header>
 </template>
 
 <style scoped>
